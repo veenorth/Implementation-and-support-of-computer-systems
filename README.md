@@ -1,1 +1,2 @@
-# Implementation-and-support-of-computer-systems
+# Внедрение и поддержка компьютерных систем
+# Запрегалов Николай ИС221
